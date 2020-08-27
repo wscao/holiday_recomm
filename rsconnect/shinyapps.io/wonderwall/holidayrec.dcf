@@ -1,0 +1,12 @@
+name: holidayrec
+title:
+username:
+account: wonderwall
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2706819
+bundleId: 3561524
+url: https://wonderwall.shinyapps.io/holidayrec/
+when: 1598480467.61158
+asMultiple: FALSE
+asStatic: FALSE
